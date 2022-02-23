@@ -57,7 +57,8 @@
     "react-native": "0.57.2",
     "react-test-renderer": "*"
   },
-  "dependencies": {
-    "@react-native-picker/picker": "^1.9.11"
+  "dependencies": {},
+  "peerDependencies": {
+    "@react-native-picker/picker": "react-native-picker/picker"
   }
 }
